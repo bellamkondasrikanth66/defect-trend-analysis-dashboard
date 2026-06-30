@@ -1,3 +1,4 @@
 venv/
 .streamlit/
 __pycache__/
+defects_mock_data.csv
